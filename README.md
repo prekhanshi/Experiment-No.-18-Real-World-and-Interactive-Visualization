@@ -1,6 +1,6 @@
 # Experiment-No.-18-Real-World-and-Interactive-Visualization
-# Experiment No. 18: Real-World and Interactive Visualization
-# PRN: 25070123163
+# Name : Prekhanshi Kumbhakar 
+# PRN: 25070123151
 # Branch: F.Y. E&TC (2025–29)
 # Batch: A1
 # Subject: Exploratory Data Analysis with Python
